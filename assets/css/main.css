@@ -635,6 +635,12 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
+/* Quick Hacky Code */
+
+.icon.brands.mastodon {
+  font-size: 14px !important;
+}
+
 /* Image */
 
 	.image {
